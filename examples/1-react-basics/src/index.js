@@ -7,17 +7,23 @@ import Welcome from './components/Welcome';
 import Counter from './components/Counter';
 import GitHubUsers from './components/GitHubUsers';
 import Avatar from './components/Avatar';
+import Bulb from './components/Bulb';
+import Surahs from './components/Surahs';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <main>
+     <Surahs />
+     <Bulb />
+     <Welcome appName="Salam from first React App"></Welcome>
+
       <div className='flex-container'>
           <Avatar username="erradi" picName='abdelkarim_erradi02.jpg'/>
           <Avatar username="abdulla-alali" picName='Abdulla_Khalid.jpg'/>
       </div>
 
-      <Welcome appName="My first React App"></Welcome>
+      
       <Counter startValue={3} onChange={count => console.log(`Count from the child component: ${count}`)}/>
       <GitHubUsers />
       <App />
