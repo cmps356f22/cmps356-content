@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello React!</title>
+        <script src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+        <script src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script> 
+        <script src="https://unpkg.com/babel-standalone@6.26.0/babel.min.js"></script>
+        <script type="text/babel"> 
+
+            // JSX = similar to HTML
+            const Hello = ({name, age}) => <hl>Hello {name}. I am {age} years old.</hl> ;
+
+            const rootElement = document.querySelector("#root");
+            ReactDOM.render(<Hello name="Sara Saida" age="19" />, rootElement);
+        </script>
+    </head>
+    <body>
+        <a href="https://www.qu.edu.qa">
+            Qu Website
+            <img src="http://www.qu.edu.qa/static_file/qu/About/images/logotype.png" alt='QU Logo'/>
+        </a>
+        <a href="https://www.google.com" target="_blank">Google Search</a>
+        <div id="root"></div>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Handlers</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        img {
+            height: 300px;
+        }
+    </style>
+    <script src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script> 
+    <script src="https://unpkg.com/babel-standalone@6.26.0/babel.min.js"></script>
+    <script type="text/babel">
+
+
+        const rootElement = document.querySelector("#root");
+        ReactDOM.render(<Bulb />, rootElement);
+    </script>
+</head>
+<body>
+    <div id="root"></div>
+</body>
+</html>
