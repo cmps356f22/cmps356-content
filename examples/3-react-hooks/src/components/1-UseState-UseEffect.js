@@ -5,7 +5,7 @@ export default function FavoriteColor() {
 
   useEffect(() => {
     document.body.style.background = color;
-  }, [color])
+  })
 
   return (
     <>

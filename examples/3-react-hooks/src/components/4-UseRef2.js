@@ -1,23 +1,22 @@
 import React, {useState, useEffect, useRef} from 'react'
 
 export default function HookTimer() {
-  const [timer, setTimer] = useState(0)
-  const interValRef = useRef()
+  const [state, setState] = useState(0)
+  let intervalRef = null
 
   useEffect(() => {
-    interValRef.current = setInterval(() => {
-      setTimer(timer => timer + 1)
+    intervalRef = setInterval(() => {
+      setState(prev => prev + 1)
     }, 1000)
-    
-    return () => {
-      clearInterval(interValRef.current)
-    }
+
+    return () => clearInterval(intervalRef);
+
   }, [])
 
   return (
     <div>
-      HookTimer - {timer} -
-      <button onClick={() => clearInterval(interValRef.current)}>Clear Timer</button>
+      HookTimer - {state} -
+      <button onClick={() => clearInterval(intervalRef)}>Clear Timer</button>
     </div>
   )
 }

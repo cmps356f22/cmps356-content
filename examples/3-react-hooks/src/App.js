@@ -23,7 +23,7 @@ import HookTimer from './components/4-UseRef2';
 function App() {
   return (
     <div className="App">
-      <FavoriteColor />
+        <HookTimer />
 
     { /* 
       <LoginForm />
