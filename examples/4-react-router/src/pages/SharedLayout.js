@@ -6,6 +6,7 @@ const Home = () => {
     <>
       <StyledNavbar />
       <Outlet />
+      <footer></footer>
     </>
   );
 };

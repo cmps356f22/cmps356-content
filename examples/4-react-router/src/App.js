@@ -9,7 +9,9 @@ import SingleProduct from './pages/SingleProduct';
 import Dashboard from './pages/Dashboard';
 import Login from './pages/Login';
 import ProtectedRoute from './pages/ProtectedRoute';
-import SharedProductLayout from './pages/SharedProductLayout';
+import ProductSharedLayout from './pages/ProductSharedLayout';
+import ProductEditor from './pages/ProductEditor';
+import ProductSearch from './pages/ProductSearch';
 /*
   Example based on:
   https://github.com/john-smilga/react-router-6-tutorial
@@ -23,10 +25,13 @@ function App() {
           <Route index element={<Home />} />
           <Route path='about' element={<About />} />
 
-          <Route path='products' element={<SharedProductLayout />}>
-            <Route index element={<Products />} />
-            <Route path=':productId' element={<SingleProduct />} />
-          </Route>
+          
+        <Route path='/products' element={<ProductSharedLayout />}>
+          <Route index element={<Products />} />
+          <Route path='new' element={<ProductEditor />} />
+          <Route path='search' element={<ProductSearch />} />
+          <Route path=':productId' element={<SingleProduct />} />
+        </Route>
 
           <Route path='login' element={<Login setUser={setUser}></Login>} />
           <Route

@@ -1,7 +1,8 @@
-import { Link } from 'react-router-dom';
-import products from '../data';
+import { Link, useOutletContext } from 'react-router-dom';
+//import products from '../data';
 
 const Products = () => {
+  const products = useOutletContext()
   return (
     <section className='section'>
       <div className='products'>
