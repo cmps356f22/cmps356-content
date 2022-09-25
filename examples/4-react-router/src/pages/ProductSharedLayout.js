@@ -1,6 +1,7 @@
 import { Outlet, Link } from 'react-router-dom';
 import products from '../data';
 const ProductSharedLayout = () => {
+  function add(x, y) { return x + y }
   return (
     <>
     <h2>Products</h2>
@@ -9,7 +10,7 @@ const ProductSharedLayout = () => {
       <Link to="/products/search">Search Products</Link>
       <Link to="/products/new">New Product</Link>
     </nav>
-    <Outlet context={products}/>
+    <Outlet context={[products, add]}/>
     </>
   );
 };

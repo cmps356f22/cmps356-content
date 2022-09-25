@@ -2,18 +2,20 @@ import { useState } from 'react';
 import { Link, useParams, useNavigate, useOutletContext } from 'react-router-dom';
 //import products from '../data';
 const ProductSearch = () => {
-  const products = useOutletContext()
+  const [products, add] = useOutletContext()
   const [productId, setProductId] = useState()
   const navigate = useNavigate()
 
   function onProductSelected(productId) {
     if (productId != '0') {
+      console.log(add(30, 80))
       navigate(`/products/${productId}`)
     }
   }
 
   return (
     <>
+    
       <label htmlFor="productDD">Product </label>
       <select id="productDD" onChange={(e) => {
                 console.dir(e);

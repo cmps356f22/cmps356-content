@@ -40,3 +40,4 @@ import React, {useState, useEffect, memo} from "react";
 }
 
 export default memo(SurahSelector)
+//export default memo(SurahSelector)

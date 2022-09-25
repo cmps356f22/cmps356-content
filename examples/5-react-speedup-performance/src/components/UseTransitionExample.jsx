@@ -9,9 +9,10 @@ export default function UseTransitionExample() {
   const handleChange = (e) => {
     const value = e.target.value;
     setSearchTerm(value);
+    //setProducts(searchProducts(value));
     startTransition(() => {
       setProducts(searchProducts(value));
-    });
+    }); 
   };
 
   const handleRandom = () => {

@@ -32,6 +32,10 @@ const Navbar = () => {
       >
         Login
       </NavLink>
+      <NavLink
+        to='/students/1234/Fall2022'
+        className={({ isActive }) => (isActive ? 'link active' : 'link')}
+      >Student Schedule</NavLink>
     </nav>
   );
 };

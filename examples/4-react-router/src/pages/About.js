@@ -1,10 +1,11 @@
-import { Link } from 'react-router-dom';
+import { Link, useOutletContext } from 'react-router-dom';
 const About = () => {
+  const [products] = useOutletContext();
   return (
     <section className='section'>
       <h2>About</h2>
       <Link to='/' className='btn'>
-        Back Home
+        Back Home (Products count {products.length})
       </Link>
     </section>
   );

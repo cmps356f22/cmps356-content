@@ -12,6 +12,7 @@ import ProtectedRoute from './pages/ProtectedRoute';
 import ProductSharedLayout from './pages/ProductSharedLayout';
 import ProductEditor from './pages/ProductEditor';
 import ProductSearch from './pages/ProductSearch';
+import StudentSchedule from './pages/StudentSchedule';
 /*
   Example based on:
   https://github.com/john-smilga/react-router-6-tutorial
@@ -25,7 +26,8 @@ function App() {
           <Route index element={<Home />} />
           <Route path='about' element={<About />} />
 
-          
+        <Route path='/students/:studentId/:semester' element={<StudentSchedule />} />
+
         <Route path='/products' element={<ProductSharedLayout />}>
           <Route index element={<Products />} />
           <Route path='new' element={<ProductEditor />} />
