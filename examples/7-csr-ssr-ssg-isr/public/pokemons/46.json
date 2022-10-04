@@ -1,0 +1,34 @@
+{
+  "name": "Paras",
+  "type": [
+    "Bug",
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 25
+    }
+  ],
+  "image": "images/paras.jpg"
+}

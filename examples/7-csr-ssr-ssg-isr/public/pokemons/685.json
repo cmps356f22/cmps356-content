@@ -1,0 +1,33 @@
+{
+  "name": "Slurpuff",
+  "type": [
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 82
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 86
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 72
+    }
+  ],
+  "image": "images/slurpuff.jpg"
+}

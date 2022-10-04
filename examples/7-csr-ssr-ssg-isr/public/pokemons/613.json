@@ -1,0 +1,33 @@
+{
+  "name": "Cubchoo",
+  "type": [
+    "Ice"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
+  "image": "images/cubchoo.jpg"
+}

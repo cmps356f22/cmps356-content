@@ -1,0 +1,34 @@
+{
+  "name": "Crabominable",
+  "type": [
+    "Fighting",
+    "Ice"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 97
+    },
+    {
+      "name": "Attack",
+      "value": 132
+    },
+    {
+      "name": "Defense",
+      "value": 77
+    },
+    {
+      "name": "Special Attack",
+      "value": 62
+    },
+    {
+      "name": "Special Defense",
+      "value": 67
+    },
+    {
+      "name": "Speed",
+      "value": 43
+    }
+  ],
+  "image": "images/crabominable.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Suicune",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 115
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 115
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
+  "image": "images/suicune.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Aromatisse",
+  "type": [
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 101
+    },
+    {
+      "name": "Attack",
+      "value": 72
+    },
+    {
+      "name": "Defense",
+      "value": 72
+    },
+    {
+      "name": "Special Attack",
+      "value": 99
+    },
+    {
+      "name": "Special Defense",
+      "value": 89
+    },
+    {
+      "name": "Speed",
+      "value": 29
+    }
+  ],
+  "image": "images/aromatisse.jpg"
+}

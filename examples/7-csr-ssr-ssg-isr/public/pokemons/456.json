@@ -1,0 +1,33 @@
+{
+  "name": "Finneon",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 49
+    },
+    {
+      "name": "Attack",
+      "value": 49
+    },
+    {
+      "name": "Defense",
+      "value": 56
+    },
+    {
+      "name": "Special Attack",
+      "value": 49
+    },
+    {
+      "name": "Special Defense",
+      "value": 61
+    },
+    {
+      "name": "Speed",
+      "value": 66
+    }
+  ],
+  "image": "images/finneon.jpg"
+}

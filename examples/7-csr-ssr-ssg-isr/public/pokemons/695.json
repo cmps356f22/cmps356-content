@@ -1,0 +1,34 @@
+{
+  "name": "Heliolisk",
+  "type": [
+    "Electric",
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 62
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 52
+    },
+    {
+      "name": "Special Attack",
+      "value": 109
+    },
+    {
+      "name": "Special Defense",
+      "value": 94
+    },
+    {
+      "name": "Speed",
+      "value": 109
+    }
+  ],
+  "image": "images/heliolisk.jpg"
+}

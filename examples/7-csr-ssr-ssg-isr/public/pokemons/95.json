@@ -1,0 +1,34 @@
+{
+  "name": "Onix",
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 160
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/onix.jpg"
+}

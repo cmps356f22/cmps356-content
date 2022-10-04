@@ -1,0 +1,34 @@
+{
+  "name": "Natu",
+  "type": [
+    "Psychic",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/natu.jpg"
+}

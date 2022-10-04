@@ -1,0 +1,34 @@
+{
+  "name": "Wigglytuff",
+  "type": [
+    "Normal",
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 140
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
+  "image": "images/wigglytuff.jpg"
+}

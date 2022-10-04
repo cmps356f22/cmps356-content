@@ -1,0 +1,33 @@
+{
+  "name": "Electivire",
+  "type": [
+    "Electric"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 123
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/electivire.jpg"
+}

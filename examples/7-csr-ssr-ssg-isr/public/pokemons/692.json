@@ -1,0 +1,33 @@
+{
+  "name": "Clauncher",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 53
+    },
+    {
+      "name": "Defense",
+      "value": 62
+    },
+    {
+      "name": "Special Attack",
+      "value": 58
+    },
+    {
+      "name": "Special Defense",
+      "value": 63
+    },
+    {
+      "name": "Speed",
+      "value": 44
+    }
+  ],
+  "image": "images/clauncher.jpg"
+}

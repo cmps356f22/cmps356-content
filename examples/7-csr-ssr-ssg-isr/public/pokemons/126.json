@@ -1,0 +1,33 @@
+{
+  "name": "Magmar",
+  "type": [
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 57
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 93
+    }
+  ],
+  "image": "images/magmar.jpg"
+}

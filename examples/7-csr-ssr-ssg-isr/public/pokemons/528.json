@@ -1,0 +1,34 @@
+{
+  "name": "Swoobat",
+  "type": [
+    "Psychic",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 67
+    },
+    {
+      "name": "Attack",
+      "value": 57
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 77
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 114
+    }
+  ],
+  "image": "images/swoobat.jpg"
+}

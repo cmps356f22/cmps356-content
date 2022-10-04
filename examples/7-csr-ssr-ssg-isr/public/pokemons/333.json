@@ -1,0 +1,34 @@
+{
+  "name": "Swablu",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/swablu.jpg"
+}

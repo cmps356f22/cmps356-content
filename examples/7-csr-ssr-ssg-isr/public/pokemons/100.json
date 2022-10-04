@@ -1,0 +1,33 @@
+{
+  "name": "Voltorb",
+  "type": [
+    "Electric"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
+  "image": "images/voltorb.jpg"
+}

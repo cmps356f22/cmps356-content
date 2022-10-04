@@ -1,0 +1,34 @@
+{
+  "name": "Cutiefly",
+  "type": [
+    "Bug",
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 84
+    }
+  ],
+  "image": "images/cutiefly.jpg"
+}

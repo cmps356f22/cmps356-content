@@ -1,0 +1,34 @@
+{
+  "name": "Pheromosa",
+  "type": [
+    "Bug",
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 71
+    },
+    {
+      "name": "Attack",
+      "value": 137
+    },
+    {
+      "name": "Defense",
+      "value": 37
+    },
+    {
+      "name": "Special Attack",
+      "value": 137
+    },
+    {
+      "name": "Special Defense",
+      "value": 37
+    },
+    {
+      "name": "Speed",
+      "value": 151
+    }
+  ],
+  "image": "images/pheromosa.jpg"
+}

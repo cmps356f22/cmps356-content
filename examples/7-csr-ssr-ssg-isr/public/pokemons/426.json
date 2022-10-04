@@ -1,0 +1,34 @@
+{
+  "name": "Drifblim",
+  "type": [
+    "Ghost",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 150
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 44
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 54
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
+  "image": "images/drifblim.jpg"
+}

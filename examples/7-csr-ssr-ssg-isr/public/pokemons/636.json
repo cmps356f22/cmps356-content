@@ -1,0 +1,34 @@
+{
+  "name": "Larvesta",
+  "type": [
+    "Bug",
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
+  "image": "images/larvesta.jpg"
+}

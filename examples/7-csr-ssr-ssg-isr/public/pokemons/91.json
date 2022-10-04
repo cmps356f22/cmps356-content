@@ -1,0 +1,34 @@
+{
+  "name": "Cloyster",
+  "type": [
+    "Water",
+    "Ice"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 180
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/cloyster.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Marshadow",
+  "type": [
+    "Fighting",
+    "Ghost"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 125
+    }
+  ],
+  "image": "images/marshadow.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Cranidos",
+  "type": [
+    "Rock"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 67
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 58
+    }
+  ],
+  "image": "images/cranidos.jpg"
+}

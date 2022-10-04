@@ -1,0 +1,34 @@
+{
+  "name": "Spinarak",
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
+  "image": "images/spinarak.jpg"
+}

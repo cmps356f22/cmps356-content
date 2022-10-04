@@ -1,0 +1,33 @@
+{
+  "name": "Brionne",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 69
+    },
+    {
+      "name": "Defense",
+      "value": 69
+    },
+    {
+      "name": "Special Attack",
+      "value": 91
+    },
+    {
+      "name": "Special Defense",
+      "value": 81
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/brionne.jpg"
+}

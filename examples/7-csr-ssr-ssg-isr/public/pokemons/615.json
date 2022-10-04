@@ -1,0 +1,33 @@
+{
+  "name": "Cryogonal",
+  "type": [
+    "Ice"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 135
+    },
+    {
+      "name": "Speed",
+      "value": 105
+    }
+  ],
+  "image": "images/cryogonal.jpg"
+}

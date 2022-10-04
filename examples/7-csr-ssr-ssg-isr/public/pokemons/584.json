@@ -1,0 +1,33 @@
+{
+  "name": "Vanilluxe",
+  "type": [
+    "Ice"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 71
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 110
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 79
+    }
+  ],
+  "image": "images/vanilluxe.jpg"
+}

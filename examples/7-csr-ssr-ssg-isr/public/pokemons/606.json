@@ -1,0 +1,33 @@
+{
+  "name": "Beheeyem",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 125
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
+  "image": "images/beheeyem.jpg"
+}

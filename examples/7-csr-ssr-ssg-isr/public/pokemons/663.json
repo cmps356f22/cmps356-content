@@ -1,0 +1,34 @@
+{
+  "name": "Talonflame",
+  "type": [
+    "Fire",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 78
+    },
+    {
+      "name": "Attack",
+      "value": 81
+    },
+    {
+      "name": "Defense",
+      "value": 71
+    },
+    {
+      "name": "Special Attack",
+      "value": 74
+    },
+    {
+      "name": "Special Defense",
+      "value": 69
+    },
+    {
+      "name": "Speed",
+      "value": 126
+    }
+  ],
+  "image": "images/talonflame.jpg"
+}

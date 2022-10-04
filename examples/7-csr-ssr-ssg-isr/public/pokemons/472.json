@@ -1,0 +1,34 @@
+{
+  "name": "Gliscor",
+  "type": [
+    "Ground",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 125
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/gliscor.jpg"
+}

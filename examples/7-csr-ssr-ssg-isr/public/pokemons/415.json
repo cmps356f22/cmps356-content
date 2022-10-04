@@ -1,0 +1,34 @@
+{
+  "name": "Combee",
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 42
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 42
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/combee.jpg"
+}

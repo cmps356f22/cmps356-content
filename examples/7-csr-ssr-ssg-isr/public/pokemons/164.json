@@ -1,0 +1,34 @@
+{
+  "name": "Noctowl",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 86
+    },
+    {
+      "name": "Special Defense",
+      "value": 96
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/noctowl.jpg"
+}

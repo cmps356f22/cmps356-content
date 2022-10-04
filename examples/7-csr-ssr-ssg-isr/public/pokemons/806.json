@@ -1,0 +1,34 @@
+{
+  "name": "Blacephalon",
+  "type": [
+    "Fire",
+    "Ghost"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 53
+    },
+    {
+      "name": "Attack",
+      "value": 127
+    },
+    {
+      "name": "Defense",
+      "value": 53
+    },
+    {
+      "name": "Special Attack",
+      "value": 151
+    },
+    {
+      "name": "Special Defense",
+      "value": 79
+    },
+    {
+      "name": "Speed",
+      "value": 107
+    }
+  ],
+  "image": "images/blacephalon.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Amoonguss",
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 114
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
+  "image": "images/amoonguss.jpg"
+}

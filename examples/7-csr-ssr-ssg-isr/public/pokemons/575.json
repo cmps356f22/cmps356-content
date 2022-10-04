@@ -1,0 +1,33 @@
+{
+  "name": "Gothorita",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
+  "image": "images/gothorita.jpg"
+}

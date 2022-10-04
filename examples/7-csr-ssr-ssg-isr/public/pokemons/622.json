@@ -1,0 +1,34 @@
+{
+  "name": "Golett",
+  "type": [
+    "Ground",
+    "Ghost"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 59
+    },
+    {
+      "name": "Attack",
+      "value": 74
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
+  "image": "images/golett.jpg"
+}

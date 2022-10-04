@@ -1,0 +1,34 @@
+{
+  "name": "Carvanha",
+  "type": [
+    "Water",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 20
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 20
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
+  "image": "images/carvanha.jpg"
+}

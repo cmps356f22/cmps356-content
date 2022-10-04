@@ -1,0 +1,34 @@
+{
+  "name": "Pidgeot",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 83
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 101
+    }
+  ],
+  "image": "images/pidgeot.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Gogoat",
+  "type": [
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 123
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 62
+    },
+    {
+      "name": "Special Attack",
+      "value": 97
+    },
+    {
+      "name": "Special Defense",
+      "value": 81
+    },
+    {
+      "name": "Speed",
+      "value": 68
+    }
+  ],
+  "image": "images/gogoat.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Tyrunt",
+  "type": [
+    "Rock",
+    "Dragon"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 58
+    },
+    {
+      "name": "Attack",
+      "value": 89
+    },
+    {
+      "name": "Defense",
+      "value": 77
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 48
+    }
+  ],
+  "image": "images/tyrunt.jpg"
+}

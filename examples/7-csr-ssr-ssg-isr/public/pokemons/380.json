@@ -1,0 +1,34 @@
+{
+  "name": "Latias",
+  "type": [
+    "Dragon",
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 110
+    },
+    {
+      "name": "Special Defense",
+      "value": 130
+    },
+    {
+      "name": "Speed",
+      "value": 110
+    }
+  ],
+  "image": "images/latias.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Nuzleaf",
+  "type": [
+    "Grass",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
+  "image": "images/nuzleaf.jpg"
+}

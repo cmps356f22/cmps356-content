@@ -1,0 +1,33 @@
+{
+  "name": "Mismagius",
+  "type": [
+    "Ghost"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 105
+    },
+    {
+      "name": "Speed",
+      "value": 105
+    }
+  ],
+  "image": "images/mismagius.jpg"
+}

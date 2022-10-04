@@ -1,12 +1,13 @@
 import React, {useState, useEffect} from "react";
+import SurahSelector from "./SurahSelector";
 
 function Counter(props) {
-    const [count, setCount] = useState(props.startValue);
+    const [count, setCount] = useState(0);
 
     const increment = () => {
         const updatedCount = count + 1;
         setCount(updatedCount);
-        props.onChange(updatedCount);
+        props?.onChange(updatedCount);
     };
 
     const decrement = () => {
@@ -20,6 +21,10 @@ function Counter(props) {
         console.log(`I just mounted!`)
     }, []);
 
+    function onSurahSelected(surahId) {
+        console.log(`The selected Surah is ${surahId}`)
+    }
+
     //Gets auto-executed on every render (i.e., every time count changes)
     useEffect(() => {
         console.log(`The count is now ${count}`);
@@ -31,6 +36,8 @@ function Counter(props) {
         Count: {count} &nbsp;
         <button type="button" onClick={increment}>+</button>
         <button type="button" onClick={decrement}>-</button>
+    <br />
+        <SurahSelector onSurahSelected={onSurahSelected}/>
     </div>
 }
 export default Counter;

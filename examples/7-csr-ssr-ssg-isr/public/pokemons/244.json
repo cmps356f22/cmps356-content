@@ -1,0 +1,33 @@
+{
+  "name": "Entei",
+  "type": [
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 115
+    },
+    {
+      "name": "Attack",
+      "value": 115
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
+  "image": "images/entei.jpg"
+}

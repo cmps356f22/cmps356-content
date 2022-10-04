@@ -1,0 +1,33 @@
+{
+  "name": "Buneary",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 66
+    },
+    {
+      "name": "Defense",
+      "value": 44
+    },
+    {
+      "name": "Special Attack",
+      "value": 44
+    },
+    {
+      "name": "Special Defense",
+      "value": 56
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
+  "image": "images/buneary.jpg"
+}

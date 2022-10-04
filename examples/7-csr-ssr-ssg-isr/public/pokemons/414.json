@@ -1,0 +1,34 @@
+{
+  "name": "Mothim",
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 94
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 94
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 66
+    }
+  ],
+  "image": "images/mothim.jpg"
+}

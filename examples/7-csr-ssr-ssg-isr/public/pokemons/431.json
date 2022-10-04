@@ -1,0 +1,33 @@
+{
+  "name": "Glameow",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 49
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 42
+    },
+    {
+      "name": "Special Attack",
+      "value": 42
+    },
+    {
+      "name": "Special Defense",
+      "value": 37
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
+  "image": "images/glameow.jpg"
+}

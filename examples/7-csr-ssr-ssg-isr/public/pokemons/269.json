@@ -1,0 +1,34 @@
+{
+  "name": "Dustox",
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
+  "image": "images/dustox.jpg"
+}

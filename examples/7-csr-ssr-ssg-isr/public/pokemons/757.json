@@ -1,0 +1,34 @@
+{
+  "name": "Salandit",
+  "type": [
+    "Poison",
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 48
+    },
+    {
+      "name": "Attack",
+      "value": 44
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 71
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 77
+    }
+  ],
+  "image": "images/salandit.jpg"
+}

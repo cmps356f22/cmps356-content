@@ -1,0 +1,34 @@
+{
+  "name": "Vibrava",
+  "type": [
+    "Ground",
+    "Dragon"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/vibrava.jpg"
+}

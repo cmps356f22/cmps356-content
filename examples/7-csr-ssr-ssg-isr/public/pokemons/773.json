@@ -1,0 +1,33 @@
+{
+  "name": "Silvally",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/silvally.jpg"
+}

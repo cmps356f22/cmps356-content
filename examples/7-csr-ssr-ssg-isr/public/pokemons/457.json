@@ -1,0 +1,33 @@
+{
+  "name": "Lumineon",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 69
+    },
+    {
+      "name": "Attack",
+      "value": 69
+    },
+    {
+      "name": "Defense",
+      "value": 76
+    },
+    {
+      "name": "Special Attack",
+      "value": 69
+    },
+    {
+      "name": "Special Defense",
+      "value": 86
+    },
+    {
+      "name": "Speed",
+      "value": 91
+    }
+  ],
+  "image": "images/lumineon.jpg"
+}

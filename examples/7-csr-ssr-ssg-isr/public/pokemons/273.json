@@ -1,0 +1,33 @@
+{
+  "name": "Seedot",
+  "type": [
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
+  "image": "images/seedot.jpg"
+}

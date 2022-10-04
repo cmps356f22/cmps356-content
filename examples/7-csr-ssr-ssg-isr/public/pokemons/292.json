@@ -1,0 +1,34 @@
+{
+  "name": "Shedinja",
+  "type": [
+    "Bug",
+    "Ghost"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 1
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
+  "image": "images/shedinja.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Electrike",
+  "type": [
+    "Electric"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
+  "image": "images/electrike.jpg"
+}

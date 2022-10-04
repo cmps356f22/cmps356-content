@@ -1,0 +1,34 @@
+{
+  "name": "Skrelp",
+  "type": [
+    "Poison",
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
+  "image": "images/skrelp.jpg"
+}

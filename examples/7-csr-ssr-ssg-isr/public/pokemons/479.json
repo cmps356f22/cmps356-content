@@ -1,0 +1,34 @@
+{
+  "name": "Rotom",
+  "type": [
+    "Electric",
+    "Ghost"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 77
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 77
+    },
+    {
+      "name": "Speed",
+      "value": 91
+    }
+  ],
+  "image": "images/rotom.jpg"
+}

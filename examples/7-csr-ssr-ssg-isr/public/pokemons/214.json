@@ -1,0 +1,34 @@
+{
+  "name": "Heracross",
+  "type": [
+    "Bug",
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
+  "image": "images/heracross.jpg"
+}

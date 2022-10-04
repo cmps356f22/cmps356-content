@@ -1,0 +1,34 @@
+{
+  "name": "Klefki",
+  "type": [
+    "Steel",
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 57
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 91
+    },
+    {
+      "name": "Special Attack",
+      "value": 80
+    },
+    {
+      "name": "Special Defense",
+      "value": 87
+    },
+    {
+      "name": "Speed",
+      "value": 75
+    }
+  ],
+  "image": "images/klefki.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Lanturn",
+  "type": [
+    "Water",
+    "Electric"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 125
+    },
+    {
+      "name": "Attack",
+      "value": 58
+    },
+    {
+      "name": "Defense",
+      "value": 58
+    },
+    {
+      "name": "Special Attack",
+      "value": 76
+    },
+    {
+      "name": "Special Defense",
+      "value": 76
+    },
+    {
+      "name": "Speed",
+      "value": 67
+    }
+  ],
+  "image": "images/lanturn.jpg"
+}

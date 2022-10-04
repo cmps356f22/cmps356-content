@@ -1,0 +1,34 @@
+{
+  "name": "Araquanid",
+  "type": [
+    "Water",
+    "Bug"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 68
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 92
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 132
+    },
+    {
+      "name": "Speed",
+      "value": 42
+    }
+  ],
+  "image": "images/araquanid.jpg"
+}

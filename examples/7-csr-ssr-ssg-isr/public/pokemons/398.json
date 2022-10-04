@@ -1,0 +1,34 @@
+{
+  "name": "Staraptor",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
+  "image": "images/staraptor.jpg"
+}

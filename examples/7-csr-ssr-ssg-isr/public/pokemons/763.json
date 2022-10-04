@@ -1,0 +1,33 @@
+{
+  "name": "Tsareena",
+  "type": [
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 72
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 98
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 98
+    },
+    {
+      "name": "Speed",
+      "value": 72
+    }
+  ],
+  "image": "images/tsareena.jpg"
+}

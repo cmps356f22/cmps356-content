@@ -1,0 +1,34 @@
+{
+  "name": "Krookodile",
+  "type": [
+    "Ground",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 117
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 92
+    }
+  ],
+  "image": "images/krookodile.jpg"
+}

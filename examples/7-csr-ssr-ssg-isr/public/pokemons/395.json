@@ -1,0 +1,34 @@
+{
+  "name": "Empoleon",
+  "type": [
+    "Water",
+    "Steel"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 84
+    },
+    {
+      "name": "Attack",
+      "value": 86
+    },
+    {
+      "name": "Defense",
+      "value": 88
+    },
+    {
+      "name": "Special Attack",
+      "value": 111
+    },
+    {
+      "name": "Special Defense",
+      "value": 101
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
+  "image": "images/empoleon.jpg"
+}

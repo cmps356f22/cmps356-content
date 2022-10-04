@@ -1,0 +1,34 @@
+{
+  "name": "Cobalion",
+  "type": [
+    "Steel",
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 91
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 129
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 72
+    },
+    {
+      "name": "Speed",
+      "value": 108
+    }
+  ],
+  "image": "images/cobalion.jpg"
+}

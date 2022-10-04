@@ -1,0 +1,34 @@
+{
+  "name": "Diggersby",
+  "type": [
+    "Normal",
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 56
+    },
+    {
+      "name": "Defense",
+      "value": 77
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 77
+    },
+    {
+      "name": "Speed",
+      "value": 78
+    }
+  ],
+  "image": "images/diggersby.jpg"
+}

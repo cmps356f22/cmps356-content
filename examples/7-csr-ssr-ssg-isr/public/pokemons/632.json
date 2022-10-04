@@ -1,0 +1,34 @@
+{
+  "name": "Durant",
+  "type": [
+    "Bug",
+    "Steel"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 58
+    },
+    {
+      "name": "Attack",
+      "value": 109
+    },
+    {
+      "name": "Defense",
+      "value": 112
+    },
+    {
+      "name": "Special Attack",
+      "value": 48
+    },
+    {
+      "name": "Special Defense",
+      "value": 48
+    },
+    {
+      "name": "Speed",
+      "value": 109
+    }
+  ],
+  "image": "images/durant.jpg"
+}

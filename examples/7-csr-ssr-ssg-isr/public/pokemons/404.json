@@ -1,0 +1,33 @@
+{
+  "name": "Luxio",
+  "type": [
+    "Electric"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 49
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 49
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
+  "image": "images/luxio.jpg"
+}

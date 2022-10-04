@@ -1,0 +1,33 @@
+{
+  "name": "Totodile",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 64
+    },
+    {
+      "name": "Special Attack",
+      "value": 44
+    },
+    {
+      "name": "Special Defense",
+      "value": 48
+    },
+    {
+      "name": "Speed",
+      "value": 43
+    }
+  ],
+  "image": "images/totodile.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Larvitar",
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 64
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 41
+    }
+  ],
+  "image": "images/larvitar.jpg"
+}

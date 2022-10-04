@@ -1,0 +1,33 @@
+{
+  "name": "Patrat",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 39
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 39
+    },
+    {
+      "name": "Speed",
+      "value": 42
+    }
+  ],
+  "image": "images/patrat.jpg"
+}

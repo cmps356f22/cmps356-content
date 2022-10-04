@@ -1,0 +1,33 @@
+{
+  "name": "Conkeldurr",
+  "type": [
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 105
+    },
+    {
+      "name": "Attack",
+      "value": 140
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
+  "image": "images/conkeldurr.jpg"
+}

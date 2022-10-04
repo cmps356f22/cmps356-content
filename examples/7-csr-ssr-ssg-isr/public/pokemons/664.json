@@ -1,0 +1,33 @@
+{
+  "name": "Scatterbug",
+  "type": [
+    "Bug"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 38
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 27
+    },
+    {
+      "name": "Special Defense",
+      "value": 25
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
+  "image": "images/scatterbug.jpg"
+}

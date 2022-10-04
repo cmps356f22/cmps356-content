@@ -1,0 +1,33 @@
+{
+  "name": "Accelgor",
+  "type": [
+    "Bug"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 145
+    }
+  ],
+  "image": "images/accelgor.jpg"
+}

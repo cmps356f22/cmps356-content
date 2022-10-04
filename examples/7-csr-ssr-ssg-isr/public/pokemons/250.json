@@ -1,0 +1,34 @@
+{
+  "name": "Ho-Oh",
+  "type": [
+    "Fire",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 106
+    },
+    {
+      "name": "Attack",
+      "value": 130
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 110
+    },
+    {
+      "name": "Special Defense",
+      "value": 154
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
+  "image": "images/ho-oh.jpg"
+}

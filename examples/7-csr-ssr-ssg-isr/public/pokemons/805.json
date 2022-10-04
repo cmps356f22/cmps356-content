@@ -1,0 +1,34 @@
+{
+  "name": "Stakataka",
+  "type": [
+    "Rock",
+    "Steel"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 61
+    },
+    {
+      "name": "Attack",
+      "value": 131
+    },
+    {
+      "name": "Defense",
+      "value": 211
+    },
+    {
+      "name": "Special Attack",
+      "value": 53
+    },
+    {
+      "name": "Special Defense",
+      "value": 101
+    },
+    {
+      "name": "Speed",
+      "value": 13
+    }
+  ],
+  "image": "images/stakataka.jpg"
+}

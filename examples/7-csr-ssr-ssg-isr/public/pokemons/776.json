@@ -1,0 +1,34 @@
+{
+  "name": "Turtonator",
+  "type": [
+    "Fire",
+    "Dragon"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 78
+    },
+    {
+      "name": "Defense",
+      "value": 135
+    },
+    {
+      "name": "Special Attack",
+      "value": 91
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 36
+    }
+  ],
+  "image": "images/turtonator.jpg"
+}

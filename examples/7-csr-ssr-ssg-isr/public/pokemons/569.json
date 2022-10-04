@@ -1,0 +1,33 @@
+{
+  "name": "Garbodor",
+  "type": [
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 82
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 82
+    },
+    {
+      "name": "Speed",
+      "value": 75
+    }
+  ],
+  "image": "images/garbodor.jpg"
+}

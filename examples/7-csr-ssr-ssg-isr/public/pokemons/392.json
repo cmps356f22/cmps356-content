@@ -1,0 +1,34 @@
+{
+  "name": "Infernape",
+  "type": [
+    "Fire",
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 76
+    },
+    {
+      "name": "Attack",
+      "value": 104
+    },
+    {
+      "name": "Defense",
+      "value": 71
+    },
+    {
+      "name": "Special Attack",
+      "value": 104
+    },
+    {
+      "name": "Special Defense",
+      "value": 71
+    },
+    {
+      "name": "Speed",
+      "value": 108
+    }
+  ],
+  "image": "images/infernape.jpg"
+}

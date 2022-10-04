@@ -1,0 +1,33 @@
+{
+  "name": "Cherrim",
+  "type": [
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 87
+    },
+    {
+      "name": "Special Defense",
+      "value": 78
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
+  "image": "images/cherrim.jpg"
+}

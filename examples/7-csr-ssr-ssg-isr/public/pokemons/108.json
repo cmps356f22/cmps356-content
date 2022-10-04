@@ -1,0 +1,33 @@
+{
+  "name": "Lickitung",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
+  "image": "images/lickitung.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Darumaka",
+  "type": [
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 15
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/darumaka.jpg"
+}

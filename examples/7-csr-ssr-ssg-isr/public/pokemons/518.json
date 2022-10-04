@@ -1,0 +1,33 @@
+{
+  "name": "Musharna",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 116
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 107
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 29
+    }
+  ],
+  "image": "images/musharna.jpg"
+}

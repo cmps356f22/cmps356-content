@@ -1,0 +1,34 @@
+{
+  "name": "Nidoking",
+  "type": [
+    "Poison",
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 81
+    },
+    {
+      "name": "Attack",
+      "value": 102
+    },
+    {
+      "name": "Defense",
+      "value": 77
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
+  "image": "images/nidoking.jpg"
+}

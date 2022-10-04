@@ -1,0 +1,34 @@
+{
+  "name": "Aron",
+  "type": [
+    "Steel",
+    "Rock"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
+  "image": "images/aron.jpg"
+}

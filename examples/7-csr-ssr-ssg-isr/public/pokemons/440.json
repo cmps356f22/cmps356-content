@@ -1,0 +1,33 @@
+{
+  "name": "Happiny",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 5
+    },
+    {
+      "name": "Defense",
+      "value": 5
+    },
+    {
+      "name": "Special Attack",
+      "value": 15
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
+  "image": "images/happiny.jpg"
+}

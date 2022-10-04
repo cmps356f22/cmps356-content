@@ -1,0 +1,34 @@
+{
+  "name": "Venipede",
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 59
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 39
+    },
+    {
+      "name": "Speed",
+      "value": 57
+    }
+  ],
+  "image": "images/venipede.jpg"
+}

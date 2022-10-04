@@ -1,0 +1,33 @@
+{
+  "name": "Floette",
+  "type": [
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 54
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 47
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 98
+    },
+    {
+      "name": "Speed",
+      "value": 52
+    }
+  ],
+  "image": "images/floette.jpg"
+}

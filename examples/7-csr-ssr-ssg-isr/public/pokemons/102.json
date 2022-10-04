@@ -1,0 +1,34 @@
+{
+  "name": "Exeggcute",
+  "type": [
+    "Grass",
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
+  "image": "images/exeggcute.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Silcoon",
+  "type": [
+    "Bug"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 25
+    },
+    {
+      "name": "Special Defense",
+      "value": 25
+    },
+    {
+      "name": "Speed",
+      "value": 15
+    }
+  ],
+  "image": "images/silcoon.jpg"
+}

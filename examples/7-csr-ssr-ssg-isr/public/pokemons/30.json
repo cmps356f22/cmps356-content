@@ -1,0 +1,33 @@
+{
+  "name": "Nidorina",
+  "type": [
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 62
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 56
+    }
+  ],
+  "image": "images/nidorina.jpg"
+}

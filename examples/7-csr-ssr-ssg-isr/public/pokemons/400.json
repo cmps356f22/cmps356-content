@@ -1,0 +1,34 @@
+{
+  "name": "Bibarel",
+  "type": [
+    "Normal",
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 79
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 71
+    }
+  ],
+  "image": "images/bibarel.jpg"
+}

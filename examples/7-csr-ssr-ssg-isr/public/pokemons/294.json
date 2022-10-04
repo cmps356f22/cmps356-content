@@ -1,0 +1,33 @@
+{
+  "name": "Loudred",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 84
+    },
+    {
+      "name": "Attack",
+      "value": 71
+    },
+    {
+      "name": "Defense",
+      "value": 43
+    },
+    {
+      "name": "Special Attack",
+      "value": 71
+    },
+    {
+      "name": "Special Defense",
+      "value": 43
+    },
+    {
+      "name": "Speed",
+      "value": 48
+    }
+  ],
+  "image": "images/loudred.jpg"
+}

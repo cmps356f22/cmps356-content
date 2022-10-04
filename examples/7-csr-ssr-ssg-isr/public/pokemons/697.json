@@ -1,0 +1,34 @@
+{
+  "name": "Tyrantrum",
+  "type": [
+    "Rock",
+    "Dragon"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 82
+    },
+    {
+      "name": "Attack",
+      "value": 121
+    },
+    {
+      "name": "Defense",
+      "value": 119
+    },
+    {
+      "name": "Special Attack",
+      "value": 69
+    },
+    {
+      "name": "Special Defense",
+      "value": 59
+    },
+    {
+      "name": "Speed",
+      "value": 71
+    }
+  ],
+  "image": "images/tyrantrum.jpg"
+}

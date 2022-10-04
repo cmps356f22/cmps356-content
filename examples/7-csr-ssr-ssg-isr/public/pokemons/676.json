@@ -1,0 +1,33 @@
+{
+  "name": "Furfrou",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 102
+    }
+  ],
+  "image": "images/furfrou.jpg"
+}

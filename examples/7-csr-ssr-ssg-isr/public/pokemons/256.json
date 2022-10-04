@@ -1,0 +1,34 @@
+{
+  "name": "Combusken",
+  "type": [
+    "Fire",
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
+  "image": "images/combusken.jpg"
+}

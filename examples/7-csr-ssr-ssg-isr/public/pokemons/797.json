@@ -1,0 +1,34 @@
+{
+  "name": "Celesteela",
+  "type": [
+    "Steel",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 97
+    },
+    {
+      "name": "Attack",
+      "value": 101
+    },
+    {
+      "name": "Defense",
+      "value": 103
+    },
+    {
+      "name": "Special Attack",
+      "value": 107
+    },
+    {
+      "name": "Special Defense",
+      "value": 101
+    },
+    {
+      "name": "Speed",
+      "value": 61
+    }
+  ],
+  "image": "images/celesteela.jpg"
+}

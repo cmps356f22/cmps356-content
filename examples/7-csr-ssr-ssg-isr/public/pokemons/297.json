@@ -1,0 +1,33 @@
+{
+  "name": "Hariyama",
+  "type": [
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 144
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/hariyama.jpg"
+}

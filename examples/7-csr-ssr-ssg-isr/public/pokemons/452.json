@@ -1,0 +1,34 @@
+{
+  "name": "Drapion",
+  "type": [
+    "Poison",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 110
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/drapion.jpg"
+}

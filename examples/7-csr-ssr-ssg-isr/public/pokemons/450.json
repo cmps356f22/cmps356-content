@@ -1,0 +1,33 @@
+{
+  "name": "Hippowdon",
+  "type": [
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 108
+    },
+    {
+      "name": "Attack",
+      "value": 112
+    },
+    {
+      "name": "Defense",
+      "value": 118
+    },
+    {
+      "name": "Special Attack",
+      "value": 68
+    },
+    {
+      "name": "Special Defense",
+      "value": 72
+    },
+    {
+      "name": "Speed",
+      "value": 47
+    }
+  ],
+  "image": "images/hippowdon.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Cosmoem",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 43
+    },
+    {
+      "name": "Attack",
+      "value": 29
+    },
+    {
+      "name": "Defense",
+      "value": 131
+    },
+    {
+      "name": "Special Attack",
+      "value": 29
+    },
+    {
+      "name": "Special Defense",
+      "value": 131
+    },
+    {
+      "name": "Speed",
+      "value": 37
+    }
+  ],
+  "image": "images/cosmoem.jpg"
+}

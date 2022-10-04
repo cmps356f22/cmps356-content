@@ -1,0 +1,34 @@
+{
+  "name": "Camerupt",
+  "type": [
+    "Fire",
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
+  "image": "images/camerupt.jpg"
+}

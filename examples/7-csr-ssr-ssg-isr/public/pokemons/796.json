@@ -1,0 +1,33 @@
+{
+  "name": "Xurkitree",
+  "type": [
+    "Electric"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 83
+    },
+    {
+      "name": "Attack",
+      "value": 89
+    },
+    {
+      "name": "Defense",
+      "value": 71
+    },
+    {
+      "name": "Special Attack",
+      "value": 173
+    },
+    {
+      "name": "Special Defense",
+      "value": 71
+    },
+    {
+      "name": "Speed",
+      "value": 83
+    }
+  ],
+  "image": "images/xurkitree.jpg"
+}

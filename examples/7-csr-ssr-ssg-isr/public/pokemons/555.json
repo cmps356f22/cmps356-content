@@ -1,0 +1,33 @@
+{
+  "name": "Darmanitan",
+  "type": [
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 105
+    },
+    {
+      "name": "Attack",
+      "value": 140
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/darmanitan.jpg"
+}

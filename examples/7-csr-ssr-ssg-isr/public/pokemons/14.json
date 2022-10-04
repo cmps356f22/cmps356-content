@@ -1,0 +1,34 @@
+{
+  "name": "Kakuna",
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 25
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 25
+    },
+    {
+      "name": "Special Defense",
+      "value": 25
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
+  "image": "images/kakuna.jpg"
+}

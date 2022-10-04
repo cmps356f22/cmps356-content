@@ -1,0 +1,33 @@
+{
+  "name": "Gothitelle",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 110
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
+  "image": "images/gothitelle.jpg"
+}

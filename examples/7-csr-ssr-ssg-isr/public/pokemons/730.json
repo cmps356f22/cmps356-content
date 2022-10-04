@@ -1,0 +1,34 @@
+{
+  "name": "Primarina",
+  "type": [
+    "Water",
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 74
+    },
+    {
+      "name": "Defense",
+      "value": 74
+    },
+    {
+      "name": "Special Attack",
+      "value": 126
+    },
+    {
+      "name": "Special Defense",
+      "value": 116
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
+  "image": "images/primarina.jpg"
+}

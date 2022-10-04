@@ -1,0 +1,34 @@
+{
+  "name": "Wingull",
+  "type": [
+    "Water",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 30
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
+  "image": "images/wingull.jpg"
+}

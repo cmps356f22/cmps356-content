@@ -1,0 +1,33 @@
+{
+  "name": "Goldeen",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 67
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 63
+    }
+  ],
+  "image": "images/goldeen.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Dartrix",
+  "type": [
+    "Grass",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 78
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 52
+    }
+  ],
+  "image": "images/dartrix.jpg"
+}

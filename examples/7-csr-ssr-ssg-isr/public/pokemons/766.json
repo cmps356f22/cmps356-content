@@ -1,0 +1,33 @@
+{
+  "name": "Passimian",
+  "type": [
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
+  "image": "images/passimian.jpg"
+}

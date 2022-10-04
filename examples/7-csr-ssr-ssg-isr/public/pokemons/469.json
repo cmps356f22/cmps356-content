@@ -1,0 +1,34 @@
+{
+  "name": "Yanmega",
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 86
+    },
+    {
+      "name": "Attack",
+      "value": 76
+    },
+    {
+      "name": "Defense",
+      "value": 86
+    },
+    {
+      "name": "Special Attack",
+      "value": 116
+    },
+    {
+      "name": "Special Defense",
+      "value": 56
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/yanmega.jpg"
+}

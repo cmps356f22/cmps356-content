@@ -1,0 +1,33 @@
+{
+  "name": "Clamperl",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 64
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 74
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 32
+    }
+  ],
+  "image": "images/clamperl.jpg"
+}

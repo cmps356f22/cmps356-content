@@ -1,0 +1,33 @@
+{
+  "name": "Torkoal",
+  "type": [
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 140
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
+  "image": "images/torkoal.jpg"
+}

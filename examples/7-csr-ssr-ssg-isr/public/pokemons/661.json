@@ -1,0 +1,34 @@
+{
+  "name": "Fletchling",
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 43
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 38
+    },
+    {
+      "name": "Speed",
+      "value": 62
+    }
+  ],
+  "image": "images/fletchling.jpg"
+}

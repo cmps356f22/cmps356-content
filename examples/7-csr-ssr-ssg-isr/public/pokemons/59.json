@@ -1,0 +1,33 @@
+{
+  "name": "Arcanine",
+  "type": [
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/arcanine.jpg"
+}

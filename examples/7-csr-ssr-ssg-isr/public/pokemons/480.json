@@ -1,0 +1,33 @@
+{
+  "name": "Uxie",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 130
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 130
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/uxie.jpg"
+}

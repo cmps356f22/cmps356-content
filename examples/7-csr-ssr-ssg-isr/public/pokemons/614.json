@@ -1,0 +1,33 @@
+{
+  "name": "Beartic",
+  "type": [
+    "Ice"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 130
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/beartic.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Purrloin",
+  "type": [
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 41
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 37
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 37
+    },
+    {
+      "name": "Speed",
+      "value": 66
+    }
+  ],
+  "image": "images/purrloin.jpg"
+}

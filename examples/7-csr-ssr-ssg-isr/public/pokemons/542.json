@@ -1,0 +1,34 @@
+{
+  "name": "Leavanny",
+  "type": [
+    "Bug",
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 103
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 92
+    }
+  ],
+  "image": "images/leavanny.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Vaporeon",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 130
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 110
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
+  "image": "images/vaporeon.jpg"
+}

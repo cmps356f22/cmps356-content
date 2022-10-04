@@ -1,0 +1,34 @@
+{
+  "name": "Aggron",
+  "type": [
+    "Steel",
+    "Rock"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 180
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/aggron.jpg"
+}

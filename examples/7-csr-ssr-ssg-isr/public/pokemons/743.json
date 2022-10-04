@@ -1,0 +1,34 @@
+{
+  "name": "Ribombee",
+  "type": [
+    "Bug",
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 124
+    }
+  ],
+  "image": "images/ribombee.jpg"
+}

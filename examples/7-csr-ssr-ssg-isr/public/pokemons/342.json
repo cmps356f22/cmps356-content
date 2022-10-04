@@ -1,0 +1,34 @@
+{
+  "name": "Crawdaunt",
+  "type": [
+    "Water",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 63
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
+  "image": "images/crawdaunt.jpg"
+}

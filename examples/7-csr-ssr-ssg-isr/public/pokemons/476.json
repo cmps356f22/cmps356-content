@@ -1,0 +1,34 @@
+{
+  "name": "Probopass",
+  "type": [
+    "Rock",
+    "Steel"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 145
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 150
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
+  "image": "images/probopass.jpg"
+}

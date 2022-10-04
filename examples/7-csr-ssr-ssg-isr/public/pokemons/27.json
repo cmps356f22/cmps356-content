@@ -1,0 +1,33 @@
+{
+  "name": "Sandshrew",
+  "type": [
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 20
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
+  "image": "images/sandshrew.jpg"
+}

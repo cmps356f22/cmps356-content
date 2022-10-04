@@ -1,0 +1,33 @@
+{
+  "name": "Nidoran",
+  "type": [
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 47
+    },
+    {
+      "name": "Defense",
+      "value": 52
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 41
+    }
+  ],
+  "image": "images/nidoran.jpg"
+}

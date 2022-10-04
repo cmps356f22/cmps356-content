@@ -1,0 +1,34 @@
+{
+  "name": "Shieldon",
+  "type": [
+    "Rock",
+    "Steel"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 42
+    },
+    {
+      "name": "Defense",
+      "value": 118
+    },
+    {
+      "name": "Special Attack",
+      "value": 42
+    },
+    {
+      "name": "Special Defense",
+      "value": 88
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
+  "image": "images/shieldon.jpg"
+}

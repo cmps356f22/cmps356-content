@@ -1,0 +1,33 @@
+{
+  "name": "Necrozma",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 97
+    },
+    {
+      "name": "Attack",
+      "value": 107
+    },
+    {
+      "name": "Defense",
+      "value": 101
+    },
+    {
+      "name": "Special Attack",
+      "value": 127
+    },
+    {
+      "name": "Special Defense",
+      "value": 89
+    },
+    {
+      "name": "Speed",
+      "value": 79
+    }
+  ],
+  "image": "images/necrozma.jpg"
+}

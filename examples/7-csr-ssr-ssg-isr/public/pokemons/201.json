@@ -1,0 +1,33 @@
+{
+  "name": "Unown",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 48
+    },
+    {
+      "name": "Attack",
+      "value": 72
+    },
+    {
+      "name": "Defense",
+      "value": 48
+    },
+    {
+      "name": "Special Attack",
+      "value": 72
+    },
+    {
+      "name": "Special Defense",
+      "value": 48
+    },
+    {
+      "name": "Speed",
+      "value": 48
+    }
+  ],
+  "image": "images/unown.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Squirtle",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 44
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 65
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 64
+    },
+    {
+      "name": "Speed",
+      "value": 43
+    }
+  ],
+  "image": "images/squirtle.jpg"
+}

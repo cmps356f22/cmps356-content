@@ -1,0 +1,33 @@
+{
+  "name": "Fraxure",
+  "type": [
+    "Dragon"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 66
+    },
+    {
+      "name": "Attack",
+      "value": 117
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 67
+    }
+  ],
+  "image": "images/fraxure.jpg"
+}

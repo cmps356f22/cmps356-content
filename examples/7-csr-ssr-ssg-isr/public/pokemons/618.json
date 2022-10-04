@@ -1,0 +1,34 @@
+{
+  "name": "Stunfisk",
+  "type": [
+    "Ground",
+    "Electric"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 109
+    },
+    {
+      "name": "Attack",
+      "value": 66
+    },
+    {
+      "name": "Defense",
+      "value": 84
+    },
+    {
+      "name": "Special Attack",
+      "value": 81
+    },
+    {
+      "name": "Special Defense",
+      "value": 99
+    },
+    {
+      "name": "Speed",
+      "value": 32
+    }
+  ],
+  "image": "images/stunfisk.jpg"
+}

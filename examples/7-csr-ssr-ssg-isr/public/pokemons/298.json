@@ -1,0 +1,34 @@
+{
+  "name": "Azurill",
+  "type": [
+    "Normal",
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 20
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 20
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
+  "image": "images/azurill.jpg"
+}

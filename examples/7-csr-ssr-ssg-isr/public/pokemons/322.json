@@ -1,0 +1,34 @@
+{
+  "name": "Numel",
+  "type": [
+    "Fire",
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
+  "image": "images/numel.jpg"
+}

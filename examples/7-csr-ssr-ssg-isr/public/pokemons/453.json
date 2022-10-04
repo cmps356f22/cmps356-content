@@ -1,0 +1,34 @@
+{
+  "name": "Croagunk",
+  "type": [
+    "Poison",
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 48
+    },
+    {
+      "name": "Attack",
+      "value": 61
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 61
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/croagunk.jpg"
+}

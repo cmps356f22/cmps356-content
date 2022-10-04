@@ -1,0 +1,33 @@
+{
+  "name": "Gorebyss",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 84
+    },
+    {
+      "name": "Defense",
+      "value": 105
+    },
+    {
+      "name": "Special Attack",
+      "value": 114
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 52
+    }
+  ],
+  "image": "images/gorebyss.jpg"
+}

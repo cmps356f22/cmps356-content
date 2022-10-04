@@ -1,0 +1,33 @@
+{
+  "name": "Stoutland",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
+  "image": "images/stoutland.jpg"
+}

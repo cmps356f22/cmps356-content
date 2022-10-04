@@ -1,0 +1,33 @@
+{
+  "name": "Ninetales",
+  "type": [
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 73
+    },
+    {
+      "name": "Attack",
+      "value": 76
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 81
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
+  "image": "images/ninetales.jpg"
+}

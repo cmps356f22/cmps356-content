@@ -1,0 +1,34 @@
+{
+  "name": "Gyarados",
+  "type": [
+    "Water",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 79
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 81
+    }
+  ],
+  "image": "images/gyarados.jpg"
+}

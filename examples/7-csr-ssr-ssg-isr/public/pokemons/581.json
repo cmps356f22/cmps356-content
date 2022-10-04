@@ -1,0 +1,34 @@
+{
+  "name": "Swanna",
+  "type": [
+    "Water",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 87
+    },
+    {
+      "name": "Defense",
+      "value": 63
+    },
+    {
+      "name": "Special Attack",
+      "value": 87
+    },
+    {
+      "name": "Special Defense",
+      "value": 63
+    },
+    {
+      "name": "Speed",
+      "value": 98
+    }
+  ],
+  "image": "images/swanna.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Carracosta",
+  "type": [
+    "Water",
+    "Rock"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 74
+    },
+    {
+      "name": "Attack",
+      "value": 108
+    },
+    {
+      "name": "Defense",
+      "value": 133
+    },
+    {
+      "name": "Special Attack",
+      "value": 83
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 32
+    }
+  ],
+  "image": "images/carracosta.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Aurorus",
+  "type": [
+    "Rock",
+    "Ice"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 123
+    },
+    {
+      "name": "Attack",
+      "value": 77
+    },
+    {
+      "name": "Defense",
+      "value": 72
+    },
+    {
+      "name": "Special Attack",
+      "value": 99
+    },
+    {
+      "name": "Special Defense",
+      "value": 92
+    },
+    {
+      "name": "Speed",
+      "value": 58
+    }
+  ],
+  "image": "images/aurorus.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Greninja",
+  "type": [
+    "Water",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 72
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 103
+    },
+    {
+      "name": "Special Defense",
+      "value": 71
+    },
+    {
+      "name": "Speed",
+      "value": 122
+    }
+  ],
+  "image": "images/greninja.jpg"
+}

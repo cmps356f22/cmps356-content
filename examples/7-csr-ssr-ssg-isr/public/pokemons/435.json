@@ -1,0 +1,34 @@
+{
+  "name": "Skuntank",
+  "type": [
+    "Poison",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 103
+    },
+    {
+      "name": "Attack",
+      "value": 93
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 71
+    },
+    {
+      "name": "Special Defense",
+      "value": 61
+    },
+    {
+      "name": "Speed",
+      "value": 84
+    }
+  ],
+  "image": "images/skuntank.jpg"
+}

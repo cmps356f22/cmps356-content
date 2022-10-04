@@ -1,0 +1,34 @@
+{
+  "name": "Scolipede",
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 89
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 69
+    },
+    {
+      "name": "Speed",
+      "value": 112
+    }
+  ],
+  "image": "images/scolipede.jpg"
+}

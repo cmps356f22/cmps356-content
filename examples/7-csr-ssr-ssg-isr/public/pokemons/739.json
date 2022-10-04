@@ -1,0 +1,33 @@
+{
+  "name": "Crabrawler",
+  "type": [
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 47
+    },
+    {
+      "name": "Attack",
+      "value": 82
+    },
+    {
+      "name": "Defense",
+      "value": 57
+    },
+    {
+      "name": "Special Attack",
+      "value": 42
+    },
+    {
+      "name": "Special Defense",
+      "value": 47
+    },
+    {
+      "name": "Speed",
+      "value": 63
+    }
+  ],
+  "image": "images/crabrawler.jpg"
+}

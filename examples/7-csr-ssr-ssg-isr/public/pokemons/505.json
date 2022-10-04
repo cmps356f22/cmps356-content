@@ -1,0 +1,33 @@
+{
+  "name": "Watchog",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 69
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 69
+    },
+    {
+      "name": "Speed",
+      "value": 77
+    }
+  ],
+  "image": "images/watchog.jpg"
+}

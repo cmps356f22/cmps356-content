@@ -1,0 +1,34 @@
+{
+  "name": "Metagross",
+  "type": [
+    "Steel",
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 135
+    },
+    {
+      "name": "Defense",
+      "value": 130
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/metagross.jpg"
+}

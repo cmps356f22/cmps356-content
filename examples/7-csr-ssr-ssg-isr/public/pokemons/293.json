@@ -1,0 +1,33 @@
+{
+  "name": "Whismur",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 64
+    },
+    {
+      "name": "Attack",
+      "value": 51
+    },
+    {
+      "name": "Defense",
+      "value": 23
+    },
+    {
+      "name": "Special Attack",
+      "value": 51
+    },
+    {
+      "name": "Special Defense",
+      "value": 23
+    },
+    {
+      "name": "Speed",
+      "value": 28
+    }
+  ],
+  "image": "images/whismur.jpg"
+}

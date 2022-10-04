@@ -1,0 +1,34 @@
+{
+  "name": "Hoppip",
+  "type": [
+    "Grass",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/hoppip.jpg"
+}

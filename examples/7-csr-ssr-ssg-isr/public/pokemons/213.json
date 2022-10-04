@@ -1,0 +1,34 @@
+{
+  "name": "Shuckle",
+  "type": [
+    "Bug",
+    "Rock"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 20
+    },
+    {
+      "name": "Attack",
+      "value": 10
+    },
+    {
+      "name": "Defense",
+      "value": 230
+    },
+    {
+      "name": "Special Attack",
+      "value": 10
+    },
+    {
+      "name": "Special Defense",
+      "value": 230
+    },
+    {
+      "name": "Speed",
+      "value": 5
+    }
+  ],
+  "image": "images/shuckle.jpg"
+}

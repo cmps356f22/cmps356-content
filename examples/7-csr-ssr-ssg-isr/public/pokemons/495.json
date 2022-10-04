@@ -1,0 +1,33 @@
+{
+  "name": "Snivy",
+  "type": [
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 63
+    }
+  ],
+  "image": "images/snivy.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Purugly",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 71
+    },
+    {
+      "name": "Attack",
+      "value": 82
+    },
+    {
+      "name": "Defense",
+      "value": 64
+    },
+    {
+      "name": "Special Attack",
+      "value": 64
+    },
+    {
+      "name": "Special Defense",
+      "value": 59
+    },
+    {
+      "name": "Speed",
+      "value": 112
+    }
+  ],
+  "image": "images/purugly.jpg"
+}

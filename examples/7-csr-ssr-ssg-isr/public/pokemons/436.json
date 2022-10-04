@@ -1,0 +1,34 @@
+{
+  "name": "Bronzor",
+  "type": [
+    "Steel",
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 57
+    },
+    {
+      "name": "Attack",
+      "value": 24
+    },
+    {
+      "name": "Defense",
+      "value": 86
+    },
+    {
+      "name": "Special Attack",
+      "value": 24
+    },
+    {
+      "name": "Special Defense",
+      "value": 86
+    },
+    {
+      "name": "Speed",
+      "value": 23
+    }
+  ],
+  "image": "images/bronzor.jpg"
+}

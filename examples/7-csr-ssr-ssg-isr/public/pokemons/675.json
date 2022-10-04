@@ -1,0 +1,34 @@
+{
+  "name": "Pangoro",
+  "type": [
+    "Fighting",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 124
+    },
+    {
+      "name": "Defense",
+      "value": 78
+    },
+    {
+      "name": "Special Attack",
+      "value": 69
+    },
+    {
+      "name": "Special Defense",
+      "value": 71
+    },
+    {
+      "name": "Speed",
+      "value": 58
+    }
+  ],
+  "image": "images/pangoro.jpg"
+}

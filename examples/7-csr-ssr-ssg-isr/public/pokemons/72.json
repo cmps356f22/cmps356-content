@@ -1,0 +1,34 @@
+{
+  "name": "Tentacool",
+  "type": [
+    "Water",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/tentacool.jpg"
+}

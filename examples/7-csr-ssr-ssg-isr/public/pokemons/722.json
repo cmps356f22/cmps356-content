@@ -1,0 +1,34 @@
+{
+  "name": "Rowlet",
+  "type": [
+    "Grass",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 68
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 42
+    }
+  ],
+  "image": "images/rowlet.jpg"
+}

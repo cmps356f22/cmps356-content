@@ -1,0 +1,34 @@
+{
+  "name": "Venusaur",
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 82
+    },
+    {
+      "name": "Defense",
+      "value": 83
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
+  "image": "images/venusaur.jpg"
+}

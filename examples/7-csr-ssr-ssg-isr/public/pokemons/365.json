@@ -1,0 +1,34 @@
+{
+  "name": "Walrein",
+  "type": [
+    "Ice",
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 110
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
+  "image": "images/walrein.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Linoone",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 78
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 61
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 61
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
+  "image": "images/linoone.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Barbaracle",
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 72
+    },
+    {
+      "name": "Attack",
+      "value": 105
+    },
+    {
+      "name": "Defense",
+      "value": 115
+    },
+    {
+      "name": "Special Attack",
+      "value": 54
+    },
+    {
+      "name": "Special Defense",
+      "value": 86
+    },
+    {
+      "name": "Speed",
+      "value": 68
+    }
+  ],
+  "image": "images/barbaracle.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Helioptile",
+  "type": [
+    "Electric",
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 44
+    },
+    {
+      "name": "Attack",
+      "value": 38
+    },
+    {
+      "name": "Defense",
+      "value": 33
+    },
+    {
+      "name": "Special Attack",
+      "value": 61
+    },
+    {
+      "name": "Special Defense",
+      "value": 43
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/helioptile.jpg"
+}

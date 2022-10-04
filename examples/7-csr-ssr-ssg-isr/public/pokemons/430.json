@@ -1,0 +1,34 @@
+{
+  "name": "Honchkrow",
+  "type": [
+    "Dark",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 52
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 52
+    },
+    {
+      "name": "Speed",
+      "value": 71
+    }
+  ],
+  "image": "images/honchkrow.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Salazzle",
+  "type": [
+    "Poison",
+    "Fire"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 68
+    },
+    {
+      "name": "Attack",
+      "value": 64
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 111
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 117
+    }
+  ],
+  "image": "images/salazzle.jpg"
+}

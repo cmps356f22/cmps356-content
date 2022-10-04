@@ -1,0 +1,34 @@
+{
+  "name": "Gourgeist",
+  "type": [
+    "Ghost",
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 122
+    },
+    {
+      "name": "Special Attack",
+      "value": 58
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 54
+    }
+  ],
+  "image": "images/gourgeist.jpg"
+}

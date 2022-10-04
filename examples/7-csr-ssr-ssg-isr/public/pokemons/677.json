@@ -1,0 +1,33 @@
+{
+  "name": "Espurr",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 62
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 54
+    },
+    {
+      "name": "Special Attack",
+      "value": 63
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 68
+    }
+  ],
+  "image": "images/espurr.jpg"
+}

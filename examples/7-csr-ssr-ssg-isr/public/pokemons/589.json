@@ -1,0 +1,34 @@
+{
+  "name": "Escavalier",
+  "type": [
+    "Bug",
+    "Steel"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 135
+    },
+    {
+      "name": "Defense",
+      "value": 105
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 105
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
+  "image": "images/escavalier.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Mudsdale",
+  "type": [
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
+  "image": "images/mudsdale.jpg"
+}

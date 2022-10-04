@@ -1,0 +1,34 @@
+{
+  "name": "Nidoqueen",
+  "type": [
+    "Poison",
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 92
+    },
+    {
+      "name": "Defense",
+      "value": 87
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 76
+    }
+  ],
+  "image": "images/nidoqueen.jpg"
+}

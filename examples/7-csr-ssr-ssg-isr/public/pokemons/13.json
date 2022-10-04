@@ -1,0 +1,34 @@
+{
+  "name": "Weedle",
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 30
+    },
+    {
+      "name": "Special Attack",
+      "value": 20
+    },
+    {
+      "name": "Special Defense",
+      "value": 20
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/weedle.jpg"
+}

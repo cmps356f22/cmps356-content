@@ -1,0 +1,34 @@
+{
+  "name": "Noibat",
+  "type": [
+    "Flying",
+    "Dragon"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
+  "image": "images/noibat.jpg"
+}

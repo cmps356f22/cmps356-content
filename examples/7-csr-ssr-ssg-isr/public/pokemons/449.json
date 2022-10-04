@@ -1,0 +1,33 @@
+{
+  "name": "Hippopotas",
+  "type": [
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 68
+    },
+    {
+      "name": "Attack",
+      "value": 72
+    },
+    {
+      "name": "Defense",
+      "value": 78
+    },
+    {
+      "name": "Special Attack",
+      "value": 38
+    },
+    {
+      "name": "Special Defense",
+      "value": 42
+    },
+    {
+      "name": "Speed",
+      "value": 32
+    }
+  ],
+  "image": "images/hippopotas.jpg"
+}

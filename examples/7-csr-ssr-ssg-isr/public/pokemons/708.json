@@ -1,0 +1,34 @@
+{
+  "name": "Phantump",
+  "type": [
+    "Ghost",
+    "Grass"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 43
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 48
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 38
+    }
+  ],
+  "image": "images/phantump.jpg"
+}

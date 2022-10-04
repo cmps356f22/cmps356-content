@@ -1,0 +1,33 @@
+{
+  "name": "Zeraora",
+  "type": [
+    "Electric"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 88
+    },
+    {
+      "name": "Attack",
+      "value": 112
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 102
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 143
+    }
+  ],
+  "image": "images/zeraora.jpg"
+}

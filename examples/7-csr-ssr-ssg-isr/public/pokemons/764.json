@@ -1,0 +1,33 @@
+{
+  "name": "Comfey",
+  "type": [
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 51
+    },
+    {
+      "name": "Attack",
+      "value": 52
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 82
+    },
+    {
+      "name": "Special Defense",
+      "value": 110
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
+  "image": "images/comfey.jpg"
+}

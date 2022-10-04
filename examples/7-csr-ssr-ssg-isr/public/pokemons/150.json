@@ -1,0 +1,33 @@
+{
+  "name": "Mewtwo",
+  "type": [
+    "Psychic"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 106
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 154
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 130
+    }
+  ],
+  "image": "images/mewtwo.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Litleo",
+  "type": [
+    "Fire",
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 62
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 58
+    },
+    {
+      "name": "Special Attack",
+      "value": 73
+    },
+    {
+      "name": "Special Defense",
+      "value": 54
+    },
+    {
+      "name": "Speed",
+      "value": 72
+    }
+  ],
+  "image": "images/litleo.jpg"
+}

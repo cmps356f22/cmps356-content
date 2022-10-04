@@ -1,0 +1,33 @@
+{
+  "name": "Poipole",
+  "type": [
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 67
+    },
+    {
+      "name": "Attack",
+      "value": 73
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 73
+    },
+    {
+      "name": "Special Defense",
+      "value": 67
+    },
+    {
+      "name": "Speed",
+      "value": 73
+    }
+  ],
+  "image": "images/poipole.jpg"
+}

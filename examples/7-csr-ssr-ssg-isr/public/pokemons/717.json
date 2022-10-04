@@ -1,0 +1,34 @@
+{
+  "name": "Yveltal",
+  "type": [
+    "Dark",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 126
+    },
+    {
+      "name": "Attack",
+      "value": 131
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 131
+    },
+    {
+      "name": "Special Defense",
+      "value": 98
+    },
+    {
+      "name": "Speed",
+      "value": 99
+    }
+  ],
+  "image": "images/yveltal.jpg"
+}

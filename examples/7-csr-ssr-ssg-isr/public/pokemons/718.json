@@ -1,0 +1,34 @@
+{
+  "name": "Zygarde",
+  "type": [
+    "Dragon",
+    "Ground"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 108
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 121
+    },
+    {
+      "name": "Special Attack",
+      "value": 81
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
+  "image": "images/zygarde.jpg"
+}

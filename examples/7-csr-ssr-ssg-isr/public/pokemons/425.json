@@ -1,0 +1,34 @@
+{
+  "name": "Drifloon",
+  "type": [
+    "Ghost",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 34
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 44
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/drifloon.jpg"
+}

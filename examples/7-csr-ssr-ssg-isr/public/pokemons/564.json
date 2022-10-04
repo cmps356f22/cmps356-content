@@ -1,0 +1,34 @@
+{
+  "name": "Tirtouga",
+  "type": [
+    "Water",
+    "Rock"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 54
+    },
+    {
+      "name": "Attack",
+      "value": 78
+    },
+    {
+      "name": "Defense",
+      "value": 103
+    },
+    {
+      "name": "Special Attack",
+      "value": 53
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 22
+    }
+  ],
+  "image": "images/tirtouga.jpg"
+}

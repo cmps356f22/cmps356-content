@@ -1,7 +1,11 @@
-import React, {useState, useEffect} from "react";
+import {useState, useEffect, memo} from "react";
 
-export default function SurahSelector({onSurahSelected}) {
+ function SurahSelector({onSurahSelected}) {
     const [surahs, setSurahs] = useState([]);
+
+    useEffect(() => {
+        console.log('SurahSelector re-rendered!!!')
+    })
 
     //Invoked only one time when the component is first mounted to the DOM.
     useEffect(() => {
@@ -26,7 +30,7 @@ export default function SurahSelector({onSurahSelected}) {
                 }>
                 <option value="0"></option>
                 {surahs.map(surah =>
-                    <option value={surah.id}>
+                    <option value={surah.id} key={surah.id}>
                         {surah.name_arabic} - {surah.name_simple}
                     </option>
                 )}
@@ -34,3 +38,5 @@ export default function SurahSelector({onSurahSelected}) {
         </>
     );
 }
+
+export default memo(SurahSelector)

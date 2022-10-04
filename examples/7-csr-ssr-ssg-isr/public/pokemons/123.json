@@ -1,0 +1,34 @@
+{
+  "name": "Scyther",
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 105
+    }
+  ],
+  "image": "images/scyther.jpg"
+}

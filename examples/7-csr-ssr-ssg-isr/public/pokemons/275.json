@@ -1,0 +1,34 @@
+{
+  "name": "Shiftry",
+  "type": [
+    "Grass",
+    "Dark"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
+  "image": "images/shiftry.jpg"
+}

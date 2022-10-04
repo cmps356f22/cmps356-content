@@ -1,0 +1,34 @@
+{
+  "name": "Wimpod",
+  "type": [
+    "Bug",
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 25
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 20
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
+  "image": "images/wimpod.jpg"
+}

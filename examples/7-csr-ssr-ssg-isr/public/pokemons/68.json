@@ -1,0 +1,33 @@
+{
+  "name": "Machamp",
+  "type": [
+    "Fighting"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 130
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
+  "image": "images/machamp.jpg"
+}

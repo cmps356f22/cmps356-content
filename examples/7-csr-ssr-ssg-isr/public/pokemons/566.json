@@ -1,0 +1,34 @@
+{
+  "name": "Archen",
+  "type": [
+    "Rock",
+    "Flying"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 112
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 74
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
+  "image": "images/archen.jpg"
+}

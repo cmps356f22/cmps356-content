@@ -1,0 +1,33 @@
+{
+  "name": "Piplup",
+  "type": [
+    "Water"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 53
+    },
+    {
+      "name": "Attack",
+      "value": 51
+    },
+    {
+      "name": "Defense",
+      "value": 53
+    },
+    {
+      "name": "Special Attack",
+      "value": 61
+    },
+    {
+      "name": "Special Defense",
+      "value": 56
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
+  "image": "images/piplup.jpg"
+}

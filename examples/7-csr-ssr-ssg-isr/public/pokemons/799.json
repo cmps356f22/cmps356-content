@@ -1,0 +1,34 @@
+{
+  "name": "Guzzlord",
+  "type": [
+    "Dark",
+    "Dragon"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 223
+    },
+    {
+      "name": "Attack",
+      "value": 101
+    },
+    {
+      "name": "Defense",
+      "value": 53
+    },
+    {
+      "name": "Special Attack",
+      "value": 97
+    },
+    {
+      "name": "Special Defense",
+      "value": 53
+    },
+    {
+      "name": "Speed",
+      "value": 43
+    }
+  ],
+  "image": "images/guzzlord.jpg"
+}

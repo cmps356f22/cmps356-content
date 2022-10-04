@@ -1,0 +1,34 @@
+{
+  "name": "Diancie",
+  "type": [
+    "Rock",
+    "Fairy"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 150
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 150
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
+  "image": "images/diancie.jpg"
+}

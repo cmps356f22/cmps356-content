@@ -1,0 +1,33 @@
+{
+  "name": "Bunnelby",
+  "type": [
+    "Normal"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 38
+    },
+    {
+      "name": "Attack",
+      "value": 36
+    },
+    {
+      "name": "Defense",
+      "value": 38
+    },
+    {
+      "name": "Special Attack",
+      "value": 32
+    },
+    {
+      "name": "Special Defense",
+      "value": 36
+    },
+    {
+      "name": "Speed",
+      "value": 57
+    }
+  ],
+  "image": "images/bunnelby.jpg"
+}

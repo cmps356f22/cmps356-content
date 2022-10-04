@@ -1,0 +1,34 @@
+{
+  "name": "Gastly",
+  "type": [
+    "Ghost",
+    "Poison"
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 30
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 35
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
+  "image": "images/gastly.jpg"
+}
