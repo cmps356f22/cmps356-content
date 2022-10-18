@@ -1,21 +1,21 @@
 /* eslint-disable @next/next/no-img-element */
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
 import styles from "../../styles/Home.module.css";
 
-export async function getStaticProps() {
-  const url = "http://localhost:3000/pokemons/all.json";
-  const response = await fetch(url);
-  const data = await response.json();
-  return {
-    props : {
-      pokemons : data
+export default function Home() {
+  const [pokemons, setPokemons] = useState([])
+  
+  useEffect(() => {
+    async function getPokemons() {
+      const url = "http://localhost:3000/pokemons/all.json";
+      const response = await fetch(url);
+      setPokemons(await response.json());
     }
-  }
-}
+    getPokemons()
+  }, [])
 
-export default function Home({pokemons}) {
   return (
     <div className={styles.container}>
       <Head>
@@ -25,7 +25,7 @@ export default function Home({pokemons}) {
       <div className={styles.grid}>
         {pokemons.map((pokemon) => (
           <div className={styles.card} key={pokemon.id}>
-            <Link href={`ssr2/pokemon/${pokemon.id}`}>
+            <Link href={`csr/pokemon/${pokemon.id}`}>
               <a>
                 <img
                   src={pokemon.image}

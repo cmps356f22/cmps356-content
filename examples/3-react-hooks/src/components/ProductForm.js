@@ -105,6 +105,9 @@ const ProductForm = () => {
         <br />
         <button type="submit">Submit</button>
       </form>
+      <div>
+        {JSON.stringify(product)}
+      </div>
     </>
   );
 };

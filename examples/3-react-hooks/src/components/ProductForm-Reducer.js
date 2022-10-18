@@ -1,9 +1,9 @@
 import React, { useReducer, useRef, useState } from "react";
-import { formReducer, INITIAL_STATE } from "./productFormReducer";
+import { productReducer, INITIAL_STATE } from "./productFormReducer";
 
 const ProductForm2 = () => {
   //Using a reducer
-  const [state, dispatch] = useReducer(formReducer, INITIAL_STATE);
+  const [product, dispatch] = useReducer(productReducer, INITIAL_STATE);
   const tagRef = useRef();
 
   const handleChange = (e) => {
@@ -20,7 +20,7 @@ const ProductForm2 = () => {
 
   const handleSubmit = e => {
     e.preventDefault();
-    alert(JSON.stringify(state));
+    alert(JSON.stringify(product));
   };
 
   return (
@@ -64,7 +64,7 @@ const ProductForm2 = () => {
         </button>
       </span>
       <div className="tags">
-        {state.tags.map((tag) => (
+        {product.tags.map((tag) => (
           <small
             onClick={() => dispatch({ type: "REMOVE_TAG", payload: tag })}
             key={tag}
@@ -78,7 +78,7 @@ const ProductForm2 = () => {
           <button onClick={() => dispatch({ type: "DECREASE" })} type="button">
             -
           </button>
-          <span>Quantity ({state.quantity})</span>
+          <span>Quantity ({product.quantity})</span>
           <button onClick={() => dispatch({ type: "INCREASE" })} type="button">
             +
           </button>
@@ -86,6 +86,9 @@ const ProductForm2 = () => {
       <br />
       <button type="submit">Submit</button>
     </form>
+    <div>
+        {JSON.stringify(product)}
+      </div>
    </>
   );
 };

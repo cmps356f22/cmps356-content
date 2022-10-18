@@ -5,34 +5,30 @@ import Link from "next/link";
 import styles from "../../../styles/Details.module.css";
 
 export async function getStaticPaths() {
-  // products 1 ... 1000
-  // 1..100 popular products
- //products/200
-
   const resp = await fetch(
-    "https://raw.githubusercontent.com/cmps350s22/6-csr-ssr-ssg-isr/main/public/pokemons/all.json"
+    "http://localhost:3000/pokemons/all.json"
   );
   const pokemon = await resp.json();
 
   return {
-    //paths: [{ params: { id: 1}}, { params: { id: 2}}, { params: { id: 3}}]
     paths: pokemon.map((pokemon) => ({
       params: { id: pokemon.id.toString() },
     })),
-    fallback: false
+    fallback: false,
+    revalidate: 30
   };
 }
 
 export async function getStaticProps({ params }) {
   const resp = await fetch(
-    `https://raw.githubusercontent.com/cmps350s22/6-csr-ssr-ssg-isr/main/public/pokemons/${params.id}.json`
+    `http://localhost:3000/pokemons/${params.id}.json`
   );
 
   return {
     props: {
       pokemon: await resp.json(),
-    }
-    //revalidate: 30
+    },
+    revalidate: 60,
   };
 }
 

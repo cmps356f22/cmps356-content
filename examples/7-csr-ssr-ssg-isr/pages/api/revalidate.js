@@ -3,10 +3,10 @@
 
 export default async function handler(req, res) {
   // e.g., ?url=http://localhost:3000/ssg/pokemon/1
-  if (req.query) {
+  if (req.method === 'GET' && req.query) {
     let {url} = req.query;
     await res.revalidate(url);
-  } else if (req.body) {
+  } else if (req.method === 'POST' && req.body) {
     for (const url of req.body) {
       await res.revalidate(url);
     }

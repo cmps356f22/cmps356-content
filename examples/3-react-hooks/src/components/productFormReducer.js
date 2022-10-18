@@ -7,7 +7,7 @@ export const INITIAL_STATE = {
   quantity: 0,
 };
 
-export const formReducer = (state, action) => {
+export const productReducer = (state, action) => {
   switch (action.type) {
     case "CHANGE_INPUT":
       return {

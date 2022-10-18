@@ -5,27 +5,28 @@ import Head from "next/head";
 import Link from "next/link";
 import styles from "../../../styles/Details.module.css";
 
-export async function getServerSideProps(context) {
-  const id = context.params.id
-  const url = `http://localhost:3000/pokemons/${id}.json`;
-  const response = await fetch(url);
-  const pokemon = await response.json();
-  console.dir(pokemon)
-  return {
-    props : {
-      pokemon
-    }
-  }
-}
+export default function Details() {
+  const router = useRouter();
+  const {id} = router.query;
 
-export default function Details({pokemon}) {
+  const [pokemon, setPokemon] = useState({})
+  
+  useEffect(() => {
+    async function getPokemon() {
+      const url = `http://localhost:3000/pokemons/${id}.json`;
+      const response = await fetch(url);
+      setPokemon(await response.json());
+    }
+    getPokemon()
+  }, [])
+
   return (
     <div>
       <Head>
         <title>{pokemon?.name}</title>
       </Head>
       <div>
-        <Link href="/ssr2">
+        <Link href="/csr">
           <a>Back to Home</a>
         </Link>
       </div>

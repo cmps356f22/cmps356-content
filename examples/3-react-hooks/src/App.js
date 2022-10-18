@@ -19,11 +19,15 @@ import SurahSelector from './components/SurahSelector';
 import WindowSize from './components/2-Useffect-Cleanup';
 import FocusInput from './components/4-UseRef';
 import HookTimer from './components/4-UseRef2';
+import MyCounter from './Counter';
 
 function App() {
   return (
     <div className="App">
-        <HookTimer />
+        <MyCounter />
+        <Counter2 />
+
+        <ProductForm2 />
 
     { /* 
       <LoginForm />
