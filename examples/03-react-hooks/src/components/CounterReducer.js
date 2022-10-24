@@ -1,5 +1,6 @@
 import React, { useReducer, useState } from "react";
 import countReducer from "./CountReducerFn";
+import { actionType } from "./CountReducerFn";
 
 const initialState = { count: 0 };
 
@@ -9,11 +10,11 @@ export default function Counter2() {
   return (
     <>
       Count: {state.count} &nbsp;
-      <button onClick={() => dispatch({ type: "increment" })}>+</button>
-      <button onClick={() => dispatch({ type: "decrement" })}>-</button>
-      <button onClick={() => dispatch({ type: "reset" })}>Reset</button>
+      <button onClick={() => dispatch({ type: actionType.INCREMENT })}>+</button>
+      <button onClick={() => dispatch({ type: actionType.DECREMENT })}>-</button>
+      <button onClick={() => dispatch({ type: actionType.RESET })}>Reset</button>
       <input value={initValue} onChange={ (e) => setInitValue(parseInt(e.target.value))  }/>
-      <button onClick={() => dispatch({ type: "init", payload: initValue })}>Init</button>
+      <button onClick={() => dispatch({ type: actionType.INIT, payload: initValue })}>Init</button>
     </>
   );
 }
