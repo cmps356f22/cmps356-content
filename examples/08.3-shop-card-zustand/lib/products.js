@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: 1,
+    name: 'Coffee beans - Costa Rica Finca la Planada',
+    price: '35',
+    imageSrc: '/costa-rica-finca-la-planada-600x600.jpg',
+    imageAlt: 'Coffee beans - Costa Rica Finca la Planada',
+  },
+  {
+    id: 2,
+    name: 'Coffee beans - Rwanda  Cyumba',
+    price: '28',
+    imageSrc: '/rwanda-cyumba.jpg',
+    imageAlt: 'Coffee beans - Rwanda  Cyumba',
+  },
+  {
+    id: 3,
+    name: 'Hario cercamic coffee mill Skerton Pro',
+    price: '89',
+    imageSrc: '/hario-ceramic-coffee-mill-skerton-pro-c.jpg',
+    imageAlt: 'Hario cercamic coffee mill Skerton Pro',
+  },
+  {
+    id: 4,
+    name: 'Hario cercamic coffee dripper',
+    price: '35',
+    imageSrc: '/hario-ceramic-coffee-dripper-v60.jpg',
+    imageAlt: 'Hario cercamic coffee dripper',
+  },
+  {
+    id: 5,
+    name: 'Chemex - 6 cups',
+    price: '42',
+    imageSrc: '/chemex-02.png',
+    imageAlt: 'Chemex - 6 cups',
+  },
+  {
+    id: 6,
+    name: 'Aeropress - 1 cup',
+    price: '56',
+    imageSrc: '/aeropress-go_0001_AeroPress-Go-1-800x800-1.jpg',
+    imageAlt: 'Aeropress - 1 cup',
+  },
+  {
+    id: 7,
+    name: 'Hario V60 - Pour over kit',
+    price: '64',
+    imageSrc: '/hario-v60-pour-over-kit.jpg',
+    imageAlt: 'Hario V60 - Pour over kit',
+  },
+  {
+    id: 8,
+    name: 'Hario Mini coffee grinder',
+    price: '23',
+    imageSrc: '/minigrinder.jpg',
+    imageAlt: 'Hario Mini coffee grinder',
+  },
+];
