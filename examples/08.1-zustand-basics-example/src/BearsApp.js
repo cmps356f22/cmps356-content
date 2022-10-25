@@ -9,7 +9,6 @@ function BearsCount() {
 }
 
 function AddBear() {
-  return <button onClick={() => incrementBear()}>Add bear</button>;
   const addBear = useStore((state) => state.addBear);
   return <button onClick={() => addBear()}>Add bear</button>;
 }
