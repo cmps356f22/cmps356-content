@@ -1,16 +1,17 @@
 import "./App.css";
 
 import { useStore } from "./bears-store";
-import Bears from "./Bears";
+import BearsList from "./BearsList";
 
-function ShowBears() {
+function BearsCount() {
   const bears = useStore((state) => state.bears);
   return <p>{bears} bears in the forest</p>;
 }
 
 function AddBear() {
-  const incrementBear = useStore((state) => state.increasePopulation);
   return <button onClick={() => incrementBear()}>Add bear</button>;
+  const addBear = useStore((state) => state.addBear);
+  return <button onClick={() => addBear()}>Add bear</button>;
 }
 
 function RemoveBear() {
@@ -23,19 +24,18 @@ function RemoveAllBears() {
   return <button onClick={() => removeAllBears()}>Remove all bears</button>;
 }
 
-function App() {
+export default function BearsApp() {
+  const bears = useStore((state) => state.bears)
   return (
     <div className="App">
-      <ShowBears />
+      <BearsCount />
       <div className="actions">
         <AddBear />
-        {useStore((state) => state.bears) !== 0 ? <RemoveBear /> : null}
-        {useStore((state) => state.bears) !== 0 ? <RemoveAllBears /> : null}
+        {bears !== 0 ? <RemoveBear /> : null}
+        {bears !== 0 ? <RemoveAllBears /> : null}
       </div>
       <br />
-      <Bears />
+      <BearsList />
     </div>
   );
 }
-
-export default App;

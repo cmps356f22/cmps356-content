@@ -3,30 +3,30 @@
     {
       "userId": 1,
       "id": 2,
-      "title": "quis ut nam facilis et officia qui",
+      "title": "Learn React.js",
       "completed": false
     },
     {
       "userId": 1,
       "id": 4,
-      "title": "et porro tempora",
+      "title": "Learn Next.js",
       "completed": true
     },
     {
       "userId": 1,
       "id": 6,
-      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "title": "Enjoy life!",
       "completed": false
     },
     {
       "userId": 1,
       "id": 8,
-      "title": "quo adipisci enim quam ut ab",
+      "title": "Have fun",
       "completed": true
     },
     {
       "userId": 1,
-      "title": "Test",
+      "title": "Watch world cup matches",
       "completed": false,
       "id": 9
     }

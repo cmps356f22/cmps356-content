@@ -1,7 +1,7 @@
 import React from 'react'
 import { useStore } from './bears-store'
 
-export default function Bears(){
+export default function BearsList(){
     const bears = useStore(state => state.bears)
     return(
      <div>

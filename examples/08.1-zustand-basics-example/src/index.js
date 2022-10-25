@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './BearsApp';
+import BearsApp from './BearsApp';
 import reportWebVitals from './reportWebVitals';
 import FruitsApp from './FruitsApp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <BearsApp />
     <FruitsApp />
   </React.StrictMode>
 );

@@ -4,12 +4,13 @@ import {persist, devtools} from "zustand/middleware"
 // and modify our existing state
 let store = (set) => ({
   fruits: ["apple", "banana", "orange"],
-  addFruits: (fruit) => {
+  addFruit: (fruit) => {
     set((state) => ({
       fruits: [...state.fruits, fruit],
     }));
   },
 });
+
 // persist the created state
 store = persist(store, {name: "basket"})
 store = devtools(store);

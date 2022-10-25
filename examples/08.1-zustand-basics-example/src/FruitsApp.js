@@ -4,11 +4,11 @@ import { useRef } from 'react'
 
 export default function FruitsApp() {
   const fruits = useStore((state) => state.fruits);
-  const addFruits = useStore((state) => state.addFruits);
+  const addFruit = useStore((state) => state.addFruit);
   const inputRef = useRef();
 
-  const addFruit = () => {
-    addFruits(inputRef.current.value);
+  const handleAddFruit = () => {
+    addFruit(inputRef.current.value);
     inputRef.current.value = "";
   };
 
@@ -17,7 +17,7 @@ export default function FruitsApp() {
       <h1>I have {fruits.length} fruits in my basket</h1>
       <p>Add a new fruit</p>
       <input ref={inputRef} />
-      <button onClick={addFruit}>Add a fruit</button>
+      <button onClick={handleAddFruit}>Add a fruit</button>
       {fruits.map((fruit) => (
         <p key={fruit}>{fruit}</p>
       ))}
