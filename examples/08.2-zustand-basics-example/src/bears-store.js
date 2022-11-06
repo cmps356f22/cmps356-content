@@ -5,4 +5,4 @@ export const useStore = create((set) => ({
   addBear: () => set((state) => ({ bears: state.bears + 1 })),
   removeBear: () => set((state) => ({ bears: state.bears - 1})),
   removeAllBears: () => set({ bears: 0 }),
-}))
+}));

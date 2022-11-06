@@ -1,26 +1,29 @@
-import "./App.css";
+import "./App.css"
 
-import { useStore } from "./bears-store";
-import BearsList from "./BearsList";
+import { useStore } from "./bears-store"
+import BearsList from "./BearsList"
 
 function BearsCount() {
-  const bears = useStore((state) => state.bears);
-  return <p>{bears} bears in the forest</p>;
+  // Get access to the whole store
+  const store = useStore()
+  // Get access to specific properties by passing a selector
+  const bears = useStore((state) => state.bears)
+  return <p>{bears} bears in the forest</p>
 }
 
 function AddBear() {
-  const addBear = useStore((state) => state.addBear);
-  return <button onClick={() => addBear()}>Add bear</button>;
+  const addBear = useStore((state) => state.addBear)
+  return <button onClick={() => addBear()}>Add bear</button>
 }
 
 function RemoveBear() {
-  const removeBear = useStore((state) => state.removeBear);
-  return <button onClick={() => removeBear()}>Remove bear</button>;
+  const removeBear = useStore((state) => state.removeBear)
+  return <button onClick={() => removeBear()}>Remove bear</button>
 }
 
 function RemoveAllBears() {
-  const removeAllBears = useStore((state) => state.removeAllBears);
-  return <button onClick={() => removeAllBears()}>Remove all bears</button>;
+  const removeAllBears = useStore((state) => state.removeAllBears)
+  return <button onClick={() => removeAllBears()}>Remove all bears</button>
 }
 
 export default function BearsApp() {
@@ -36,5 +39,5 @@ export default function BearsApp() {
       <br />
       <BearsList />
     </div>
-  );
+  )
 }
