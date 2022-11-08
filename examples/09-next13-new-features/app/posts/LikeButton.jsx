@@ -1,15 +1,13 @@
-"use client"
-import { useState } from "react"
-import './style.css'
+'use client' // Client-side render
 
-export function LikeButton({ id }) {
+import { useState } from 'react'
+
+export function LikeButton () {
   const [liked, setLiked] = useState(false)
+
   return (
-    <button
-      className="likeButton"
-      onClick={() => setLiked(!liked)}
-    >
-      {liked ? "♥" : "♡"}
+    <button onClick={() => setLiked(!liked)}>
+      {liked ? '♥' : '♡'}
     </button>
   )
 }

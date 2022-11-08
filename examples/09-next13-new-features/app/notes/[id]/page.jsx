@@ -2,7 +2,7 @@ import React from 'react'
 import styles from '../Notes.module.css'
 
 const getNote = async (noteId) => {
-  const res = await fetch(`http://localhost:3500/notes/${noteId}`,
+  const res = await fetch(`http://localhost:3500/notes2/${noteId}`,
     { next: { revalidate: 10 } }
   )
   return res.json()
