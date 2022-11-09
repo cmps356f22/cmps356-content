@@ -3,7 +3,7 @@ import styles from './Comments.module.css'
 
 const fetchPost = async (id) => {
   // Incremental Static Regeneration
-  const data = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`, {
+  const data = await fetch(`http://localhost:3500/posts/${id}`, {
     next: {
       revalidate: 60
     }

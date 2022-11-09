@@ -2,7 +2,8 @@ import Link from 'next/link'
 import { LikeButton } from './LikeButton'
 
 const fetchPosts = async () => {
-  const data = await fetch('https://jsonplaceholder.typicode.com/posts', {
+  //https://jsonplaceholder.typicode.com
+  const data = await fetch('http://localhost:3500/posts', {
     next: {
       revalidate: 60
     }
